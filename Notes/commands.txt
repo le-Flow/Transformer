@@ -3,3 +3,5 @@ Windows/Linux: Ctrl + K then V (press them one after the other, not together)
 
 Closing tab:
 Windows/Linux: Ctrl + W
+
+17:03

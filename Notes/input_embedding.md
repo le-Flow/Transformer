@@ -6,8 +6,6 @@
 * Input Embedding allows us to convert a Sentence into a Vector of 512 Dimensions
 * in this case: a **Word-vector**
 
-<br>
-
 **Example:**
 
 ![](images/input_embedding/2025-04-16-18-50-08.png)
@@ -22,8 +20,9 @@
 * lines 5-15
 ![](images/input_embedding/2025-04-16-19-49-30.png)
 
-<br>
-
 **Missing:**
 * Explaining the Equation
 
+<br>
+
+### Next up: [Positional Encoding](positional_encoding.md)
