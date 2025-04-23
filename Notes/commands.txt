@@ -4,4 +4,8 @@ Windows/Linux: Ctrl + K then V (press them one after the other, not together)
 Closing tab:
 Windows/Linux: Ctrl + W
 
+Code:
 17:03
+
+Info:
+24:21
